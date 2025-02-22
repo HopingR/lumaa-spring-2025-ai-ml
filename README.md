@@ -11,7 +11,7 @@ https://drive.google.com/file/d/12WGa4K3SzXVPgZeNFT2PMZWZmNWNpB1J/view?usp=shari
 
 3. Upload the dataset “movies_metadataLumma.csv”
 4. Click on run icon and input the description of the movie for top movie recommendations
-5. Typ exit or quite once done executing sample test.
+5. Typ exit or quit once done executing sample test.
 
    
 
