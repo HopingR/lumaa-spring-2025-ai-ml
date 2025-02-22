@@ -7,7 +7,7 @@ Steps to run the Deliverables code set(recommendation code)
 https://colab.research.google.com/drive/1Mf68AKsaPGLhNFyjLa_Vn4_I2M1f4E0p?usp=sharing
 
 2. Click of the below for Demo video on how to run recommendation code
-https://drive.google.com/file/d/12WGa4K3SzXVPgZeNFT2PMZWZmNWNpB1J/view?usp=sharing
+https://drive.google.com/file/d/1oiA6bnvlI-hdoIMtgvX19NQwLQ8-0It1/view?usp=sharing
 
 3. Upload the dataset “movies_metadataLumma.csv”
 4. Click on run icon and input the description of the movie for top movie recommendations
